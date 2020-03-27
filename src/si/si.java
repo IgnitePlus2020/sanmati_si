@@ -17,3 +17,16 @@ public class si {
         System.out.println("Simple interest is" + si);
     }
 }
+
+/*
+OUTPUT
+Enter the principal amount
+1000
+Enter the rate of interest
+5
+Enter the period in months
+12
+Simple interest is 600
+*/
+
+
